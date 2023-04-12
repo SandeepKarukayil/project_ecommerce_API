@@ -1,0 +1,19 @@
+* {
+  margin: 2%;
+  text-align: center;
+  color: skyblue;
+  font-size: 48px;
+  font-family: "Oswald", sans-serif;
+}
+body {
+  background: url(https://images.unsplash.com/photo-1489549132488-d00b7eee80f1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80);
+}
+
+p {
+  color: rgb(34, 191, 26);
+}
+
+h1 {
+  text-decoration: underline;
+  color: red;
+}
